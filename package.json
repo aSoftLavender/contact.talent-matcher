@@ -1,0 +1,25 @@
+{
+  "name": "contact.talent-matcher",
+  "version": "1.0.0",
+  "description": "matches talent based on location input",
+  "main": "talentMatcher.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aSoftLavender/contact.talent-matcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aSoftLavender/contact.talent-matcher/issues"
+  },
+  "homepage": "https://github.com/aSoftLavender/contact.talent-matcher#readme",
+  "dependencies": {
+    "jest": "^27.5.1"
+  }
+}

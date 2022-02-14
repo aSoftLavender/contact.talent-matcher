@@ -1,0 +1,4 @@
+- json validator
+- improved test coverage
+- well documented code 
+- define a MalformedError from the Error class 
