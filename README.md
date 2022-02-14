@@ -12,10 +12,10 @@ Secondly, to ensure the matches are retrieved irrespective of case sensitivity r
 
  # Getting started
 
- Git clone the repository
- Npm install
- Uncomment code in talentMatcher.js file
- Run * *node talentMatcher.js* * in the terminal
+ - Git clone the repository
+ - Npm install
+ - Uncomment code in talentMatcher.js file
+ - Run * *node talentMatcher.js* * in the terminal
 
  # Running tests
 
