@@ -10,6 +10,13 @@ Secondly, to ensure the matches are retrieved irrespective of case sensitivity r
 
  Finally the data is filtered by location to output names of matching talent, in the event there is no matching talent, a message is output in the console as well as the location.
 
+ # Getting started
+
+ Git clone the repository
+ Npm install
+ Uncomment code in talentMatcher.js file
+ Run * *node talentMatcher.js* * in the terminal
+
  # Running tests
 
- Use the ** npm run test ** command to run the test suites
+ Use the * *npm run test* * command to run the test suites

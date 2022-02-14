@@ -22,6 +22,25 @@ function talentMatcher(jsonArray, location){
     return location
 }
 
+//UNCOMMENT ME
+// console.log(talentMatcher([
+//     {
+//     "name": "Princess Bubblegum",
+//     "location": "Candy Kingdom",
+//     "date_of_birth": "1980-03-19"
+//   },
+//   {
+//     "name": "Flame Princess",
+//     "location": "Fire Kingdom",
+//     "date_of_birth": "1957-10-29"
+//   },
+//   {
+//     "name": "Slime Princess",
+//     "location": "Candy Kingdom",
+//     "date_of_birth": "1987-08-22"
+//   }
+// ], "Fire Kingdom"))
+
 module.exports = {
   talentMatcher,
 }
